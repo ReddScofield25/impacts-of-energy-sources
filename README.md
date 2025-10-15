@@ -40,8 +40,8 @@ These questions structured the Scope of Work and guided all analytical tasks.
 ## 🔗 Live Resources *(Optional)*
 Access planning documents and analysis:
 
-- **Scope of Work (Google Doc):** *[https://docs.google.com/document/d/17k1wqkY1ycU8Cuw4YogN6HO22xsQ-P7d4E6x8BxnSMs/edit?usp=sharing]*  
-- **Spreadsheet Analysis (Google Sheet):** *[https://docs.google.com/spreadsheets/d/1BaLRfDi9-mmUhXtirqwd910umRzDzUgMaz-F7C3oKMY/edit?usp=sharing]*  
+- **Scope of Work (Google Doc):** *[View here](https://docs.google.com/document/d/17k1wqkY1ycU8Cuw4YogN6HO22xsQ-P7d4E6x8BxnSMs/edit?usp=sharing)*  
+- **Spreadsheet Analysis (Google Sheet):** *[View here](https://docs.google.com/spreadsheets/d/1BaLRfDi9-mmUhXtirqwd910umRzDzUgMaz-F7C3oKMY/edit?usp=sharing)*  
 
 > These links provide real-time access to the working files used in the analysis.
 
@@ -94,3 +94,4 @@ A self-directed exercise under the **Google Data Analytics Certificate**, focuse
 - Dataset interpretation  
 - Structured analytical methodology  
 - Practical environmental insight through data comparison  
+
